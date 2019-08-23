@@ -14,5 +14,5 @@ cat > ./note/leetcode-$1.md << EOF
 
 EOF
 
-echo -e "\n[leetcode-$1](./note/leetcode-$1.md) $2  " >> README.md
+echo "[leetcode-$1](./note/leetcode-$1.md) $2  " >> README.md
 
