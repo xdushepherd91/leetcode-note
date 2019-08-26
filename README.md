@@ -15,3 +15,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-1021](./note/leetcode-1021.md) 删除最外层的括号  
 [leetcode-804](./note/leetcode-804.md) 唯一摩斯密码词  
 [leetcode-832](./note/leetcode-832.md) 翻转图像  
+[leetcode-617](./note/leetcode-617.md) 合并二叉树  
