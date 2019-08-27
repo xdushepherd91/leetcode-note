@@ -20,3 +20,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-226](./note/leetcode-226.md) 翻转二叉树  
 [leetcode-1051](./note/leetcode-1051.md) 高度检查器  
 [leetcode-104](./note/leetcode-104.md) 二叉树的最大深度  
+[leetcode-977](./note/leetcode-977.md) 有序数组的平方  
