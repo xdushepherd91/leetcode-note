@@ -29,3 +29,5 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-292](./note/leetcode-292.md) Nim游戏  
 [leetcode-144](./note/leetcode-144.md) 二叉树的前序遍历  
 [leetcode-476](./note/leetcode-476.md) 数字的补数  
+[leetcode-905](./note/leetcode-905.md) 按奇偶排序数组  
+[leetcode-344](./note/leetcode-344.md) 翻转字符串  
