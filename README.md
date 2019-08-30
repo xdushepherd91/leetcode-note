@@ -26,3 +26,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-590](./note/leetcode-590.md) N叉树的后序遍历  
 [leetcode-589](./note/leetcode-589.md) N叉树的前序遍历  
 [leetcode-852](./note/leetcode-852.md) 山峰数组的峰顶索引  
+[leetcode-292](./note/leetcode-292.md) Nim游戏  
