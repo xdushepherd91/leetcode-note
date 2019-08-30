@@ -24,3 +24,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-942](./note/leetcode-942.md) 增减字符串匹配  
 [leetcode-700.](./note/leetcode-700..md) 二叉搜索树中的搜索  
 [leetcode-590](./note/leetcode-590.md) N叉树的后序遍历  
+[leetcode-589](./note/leetcode-589.md) N叉树的前序遍历  
