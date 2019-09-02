@@ -31,3 +31,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-476](./note/leetcode-476.md) 数字的补数  
 [leetcode-905](./note/leetcode-905.md) 按奇偶排序数组  
 [leetcode-344](./note/leetcode-344.md) 翻转字符串  
+[leetcode-559](./note/leetcode-559.md) N叉树的最大深度  
