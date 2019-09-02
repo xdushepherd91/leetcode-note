@@ -20,6 +20,8 @@
 
 ### 实现
 
+#### 实现1
+
 ```java
 /*
 // Definition for a Node.
@@ -57,6 +59,49 @@ class Solution {
             }
             return max;
         }
+    }
+}
+```
+
+#### 实现2
+
+```java
+/*
+// Definition for a Node.
+class Node {
+    public int val;
+    public List<Node> children;
+
+    public Node() {}
+
+    public Node(int _val,List<Node> _children) {
+        val = _val;
+        children = _children;
+    }
+};
+*/
+class Solution {
+    public int maxDepth(Node root) {
+        if(root==null) return 0;
+        int depth = 1;
+        depth = helper(root.children,depth);
+        return depth;
+    }
+    
+    
+    public int helper(List<Node> children,int depth){
+        if(children==null||children.size()==0){
+            return depth;
+        }
+        depth++;
+        int max=depth,temp=0;
+        for(Node node : children){
+            temp =  helper(node.children,depth);
+            max = Math.max(temp,max);
+        }
+        
+        
+        return max;
     }
 }
 ```
