@@ -33,3 +33,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-344](./note/leetcode-344.md) 翻转字符串  
 [leetcode-559](./note/leetcode-559.md) N叉树的最大深度  
 [leetcode-108](./note/leetcode-108.md) 将有序数组转换为二叉搜索树  
+[leetcode-965](./note/leetcode-965.md) 单值二叉树  
