@@ -37,3 +37,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-171](./note/leetcode-171.md) Excel表格序列号  
 [leetcode-929](./note/leetcode-929.md) 独特的电子邮件地址  
 [leetcode-821](./note/leetcode-821.md) 字符的最短距离  
+[leetcode-206](./note/leetcode-206.md) 反转链表  
