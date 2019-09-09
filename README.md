@@ -41,3 +41,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-682](./note/leetcode-682.md) 棒球比赛  
 [leetcode-811](./note/leetcode-811.md) 子域名访问计数  
 [leetcode-762](./note/leetcode-762.md) 二进制表示中质数个计算置位  
+[leetcode-136](./note/leetcode-136.md) 只出现一次的数字  
