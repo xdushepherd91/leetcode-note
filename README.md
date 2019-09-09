@@ -43,3 +43,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-762](./note/leetcode-762.md) 二进制表示中质数个计算置位  
 [leetcode-136](./note/leetcode-136.md) 只出现一次的数字  
 [leetcode-575](./note/leetcode-575.md) 分糖果  
+[leetcode-669](./note/leetcode-669.md) 修剪二叉搜索树  
