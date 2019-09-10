@@ -68,3 +68,40 @@ class Solution {
     
 }
 ```
+#### 实现2
+
+```java
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public List<Double> averageOfLevels(TreeNode root) {
+        List<Double> result = new ArrayList();
+        if(root==null) return result;
+        Deque<TreeNode> queue = new ArrayDeque();
+        queue.add(root);
+        while(!queue.isEmpty()){
+            int count=queue.size();
+            double total=count,all=0;
+            TreeNode current=null;
+            while(count-->0){
+                current = queue.remove();
+                all+=current.val;
+                if(current.left !=null) queue.add(current.left);
+                if(current.right !=null) queue.add(current.right);
+            }
+            double r = all/total;
+            result.add(r);
+        }
+        return result;
+    }
+    
+}
+```
+
