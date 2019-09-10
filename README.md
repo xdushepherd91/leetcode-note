@@ -49,3 +49,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-876](./note/leetcode-876.md) 链表的中间节点  
 [leetcode-566](./note/leetcode-566.md) 重塑矩阵  
 [leetcode-897](./note/leetcode-897.md) 递增顺序查找树  
+[leetcode-1160](./note/leetcode-1160.md) 拼写单词  
