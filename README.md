@@ -47,3 +47,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-107](./note/leetcode-107.md) 二叉树的层次遍历  
 [leetcode-1122](./note/leetcode-1122.md) 数组的相对排序  
 [leetcode-876](./note/leetcode-876.md) 链表的中间节点  
+[leetcode-566](./note/leetcode-566.md) 重塑矩阵  
