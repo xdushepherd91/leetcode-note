@@ -63,3 +63,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-389](./note/leetcode-389.md) 找不同  
 [leetcode-884](./note/leetcode-884.md) 两句话中的不常见单词  
 [leetcode-119](./note/leetcode-119.md) 杨辉三角  
+[leetcode-788](./note/leetcode-788.md) 旋转数字  
