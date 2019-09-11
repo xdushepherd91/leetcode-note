@@ -56,3 +56,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-872](./note/leetcode-872.md) 叶子相似的树  
 [leetcode-225](./note/leetcode-225.md) 用队列实现栈  
 [leetcode-693](./note/leetcode-693.md) 交替位二进制数  
+[leetcode-257](./note/leetcode-257.md) 二叉树的所有路径  
