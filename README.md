@@ -59,3 +59,5 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-257](./note/leetcode-257.md) 二叉树的所有路径  
 [leetcode-1078](./note/leetcode-1078.md) Bigram分词  
 [leetcode-784](./note/leetcode-784.md) 字母大小写全排列  
+[leetcode-868](./note/leetcode-868.md) 二进制间距  
+[leetcode-389](./note/leetcode-389.md) 找不同  
