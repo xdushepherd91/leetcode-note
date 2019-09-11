@@ -55,3 +55,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-1103](./note/leetcode-1103.md) 分糖果  
 [leetcode-872](./note/leetcode-872.md) 叶子相似的树  
 [leetcode-225](./note/leetcode-225.md) 用队列实现栈  
+[leetcode-693](./note/leetcode-693.md) 交替位二进制数  
