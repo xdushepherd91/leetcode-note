@@ -57,3 +57,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-225](./note/leetcode-225.md) 用队列实现栈  
 [leetcode-693](./note/leetcode-693.md) 交替位二进制数  
 [leetcode-257](./note/leetcode-257.md) 二叉树的所有路径  
+[leetcode-1078](./note/leetcode-1078.md) Bigram分词  
