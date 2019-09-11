@@ -61,3 +61,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-784](./note/leetcode-784.md) 字母大小写全排列  
 [leetcode-868](./note/leetcode-868.md) 二进制间距  
 [leetcode-389](./note/leetcode-389.md) 找不同  
+[leetcode-884](./note/leetcode-884.md) 两句话中的不常见单词  
