@@ -52,3 +52,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-1160](./note/leetcode-1160.md) 拼写单词  
 [leetcode-637](./note/leetcode-637.md) 二叉树的层平均值  
 [leetcode-235](./note/leetcode-235.md) 二叉搜索树的最近公共祖先  
+[leetcode-1103](./note/leetcode-1103.md) 分糖果  
