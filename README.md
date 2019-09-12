@@ -66,3 +66,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-788](./note/leetcode-788.md) 旋转数字  
 [leetcode-1046](./note/leetcode-1046.md) 最后一块石头的重量  
 [leetcode-538](./note/leetcode-538.md) 把二叉搜索树转化为累加树  
+[leetcode-283](./note/leetcode-283.md) 移动零  
