@@ -67,3 +67,5 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-1046](./note/leetcode-1046.md) 最后一块石头的重量  
 [leetcode-538](./note/leetcode-538.md) 把二叉搜索树转化为累加树  
 [leetcode-283](./note/leetcode-283.md) 移动零  
+[leetcode-1009](./note/leetcode-1009.md) 十进制数的反码  
+[leetcode-27](./note/leetcode-27.md) 移除元素  
