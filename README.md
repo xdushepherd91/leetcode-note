@@ -71,3 +71,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-27](./note/leetcode-27.md) 移除元素  
 [leetcode-1137](./note/leetcode-1137.md) 第N个泰伯那契数  
 [leetcode-122](./note/leetcode-122.md) 买卖股票的最佳时机II  
+[leetcode-100](./note/leetcode-100.md) 相同的树  
