@@ -74,3 +74,4 @@ pg.sh：生成笔记模板并生成目录索引的脚本
 [leetcode-100](./note/leetcode-100.md) 相同的树  
 [leetcode-1029](./note/leetcode-1029.md) 两地调度  
 [leetcode-530](./note/leetcode-530.md) 二叉搜索树的最小绝对差  
+[leetcode-520](./note/leetcode-520.md) 检测大写字母  
